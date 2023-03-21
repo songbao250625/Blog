@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de8336e8-1612-4896-ae93-ea18c4187b76" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bilog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bilog/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bilog/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bilog/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bilog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bilog/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bilog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bilog/src/main/java/com/song/Entity/Vo/QueryParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bios/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/.idea/easyCodeTableSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/BKApp-app/src/main/java/com/song/Controller/ArticleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/BKApp-app/src/main/java/com/song/blogRunApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/BKApp-app/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/BKApp-pub/src/main/java/com/song/Entity/vO/HotArticleVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/BKApp-pub/src/main/java/com/song/common/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/BKApp-pub/src/main/java/com/song/common/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BkApp/BKApp-pub/src/main/java/com/song/common/enums/AppHttpCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Dao/ArticleTagMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Dao/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Dao/CommentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Dao/FansMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Dao/TagMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Entity/ArticleTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Entity/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Entity/Dto/FansDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Entity/Dto/PublishArticleVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Entity/Dto/TagVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Entity/Fans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Entity/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Service/FansService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Service/Impl/CommentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Service/Impl/FansServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Service/Impl/TagServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Service/TagService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Utils/DESUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Utils/MyMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/Utils/ValidateCodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/common/BaseContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/King-public/src/main/java/com/song/common/TokenResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/java/com/song/Controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/java/com/song/Controller/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/java/com/song/Controller/CommonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/java/com/song/Controller/FansController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/java/com/song/Controller/TagController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/java/com/song/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/resources/mapper/ArticleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/resources/mapper/ArticleTagMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/resources/mapper/FansMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/resources/mapper/TagMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-custom/src/test/java/com/song/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlanSys/PlanSys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletJspProject/ServletJspProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TomcatProject/TomcatProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../conversation/conversation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaWebProject1/javaWebProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMvcTest02/springMvcTest02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tenement/tenement.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\项目文件\MavenRepotry" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.6" />
+        <option name="printErrorStackTraces" value="true" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\项目文件\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2I2IzhEkh4R0RJstrcKT4UnxqHw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/项目文件/Demon/King-blog/blog-custom/src/main/resources",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "bb4567938e3734e7be7386b267a1189c"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\项目文件\Demon\King-blog\blog-custom\src\main\resources" />
+      <recent name="D:\项目文件\Demon\King-blog\blog-custom\src\main\resources\mapper" />
+      <recent name="D:\项目文件\Demon\King-blog\King-public\src\main\java\com\song" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\项目文件\Demon\King-blog\blog-custom\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.song.common" />
+      <recent name="com.song.Utils" />
+      <recent name="com.song.Entity.Dto" />
+      <recent name="com.song" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.blogRunApp">
+    <configuration name="DESUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.song.Utils.DESUtil" />
+      <module name="King-public" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.song.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.song.test" />
+      <module name="blog-custom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.song.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blogRunApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="blog-custom" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.song.blogRunApp" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=GBK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.song.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.blogRunApp" />
+        <item itemvalue="应用程序.test" />
+        <item itemvalue="应用程序.DESUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="de8336e8-1612-4896-ae93-ea18c4187b76" name="变更" comment="" />
+      <created>1669373515579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669373515579</updated>
+      <workItem from="1669373517013" duration="7198000" />
+      <workItem from="1669452567035" duration="11801000" />
+      <workItem from="1669531072355" duration="6477000" />
+      <workItem from="1669650402057" duration="2752000" />
+      <workItem from="1669716754393" duration="297000" />
+      <workItem from="1669788913093" duration="3292000" />
+      <workItem from="1669890011501" duration="1225000" />
+      <workItem from="1670417425345" duration="2399000" />
+      <workItem from="1670470309591" duration="1409000" />
+      <workItem from="1670584699701" duration="2053000" />
+      <workItem from="1670677586812" duration="13288000" />
+      <workItem from="1670745915247" duration="17485000" />
+      <workItem from="1670915051117" duration="1328000" />
+      <workItem from="1671359565476" duration="1298000" />
+      <workItem from="1671616034081" duration="12000" />
+      <workItem from="1671890618000" duration="614000" />
+      <workItem from="1671961957307" duration="3178000" />
+      <workItem from="1672142919003" duration="5183000" />
+      <workItem from="1672204541725" duration="6798000" />
+      <workItem from="1672387329916" duration="6277000" />
+      <workItem from="1672813100481" duration="685000" />
+      <workItem from="1672832273305" duration="5658000" />
+      <workItem from="1672902805118" duration="5730000" />
+      <workItem from="1672970946759" duration="4624000" />
+      <workItem from="1673183851556" duration="1545000" />
+      <workItem from="1673316058410" duration="2346000" />
+      <workItem from="1673418538224" duration="3995000" />
+      <workItem from="1673424752549" duration="3358000" />
+      <workItem from="1674896547301" duration="1977000" />
+      <workItem from="1674976103340" duration="7271000" />
+      <workItem from="1675074158868" duration="1742000" />
+      <workItem from="1675852865427" duration="676000" />
+      <workItem from="1678239335463" duration="5749000" />
+      <workItem from="1678343066903" duration="1225000" />
+      <workItem from="1678352150958" duration="1032000" />
+      <workItem from="1678418740623" duration="4459000" />
+      <workItem from="1678676445928" duration="2969000" />
+      <workItem from="1678759881471" duration="5798000" />
+      <workItem from="1678845528723" duration="2906000" />
+      <workItem from="1678872708855" duration="955000" />
+      <workItem from="1678952600251" duration="4421000" />
+      <workItem from="1679019455155" duration="1202000" />
+      <workItem from="1679043096265" duration="1069000" />
+      <workItem from="1679280820157" duration="1648000" />
+      <workItem from="1679303479366" duration="633000" />
+      <workItem from="1679366252618" duration="600000" />
+      <workItem from="1679369329677" duration="280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.apache.ibatis.binding.BindingException" package="org.apache.ibatis.binding" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

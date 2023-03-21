@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.song.Dao.FansMapper">
+
+
+    <select id="countGoods" resultType="map">
+        select good_counts as goodCounts from user
+        where id=#{id}
+    </select>
+    <select id="counts" resultType="map">
+        SELECT COUNT(fan_id) as fanCounts,COUNT(follow_id) as followCounts FROM fans WHERE user_id=#{id}
+    </select>
+</mapper>
